@@ -1,0 +1,3 @@
+/mnt/c/Users/claud/Ambiente de Trabalho/Uni/3ºano/2 sem/PPP/ProjetoPPP/CMakeFiles/ProjetoPPP.dir
+/mnt/c/Users/claud/Ambiente de Trabalho/Uni/3ºano/2 sem/PPP/ProjetoPPP/CMakeFiles/edit_cache.dir
+/mnt/c/Users/claud/Ambiente de Trabalho/Uni/3ºano/2 sem/PPP/ProjetoPPP/CMakeFiles/rebuild_cache.dir

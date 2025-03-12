@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ProjetoPPP.dir/Funcoes.c.o CMakeFiles/ProjetoPPP.dir/ProjetoPPP.c.o -o ProjetoPPP 
